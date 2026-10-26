@@ -4,7 +4,21 @@
     "href": "slides/genetic-diagnostics.html#genetic-diagnostics",
     "title": "IBD and IEI",
     "section": "Genetic diagnostics",
-    "text": "Genetic diagnostics\nto do, some pictures of WGS, LIRICAL, etc."
+    "text": "Genetic diagnostics\n\nHow do clinicians make a diagnosis of genetic disease?\n\n\n\n\n1 · Deep phenotyping Detailed clinical examination\n\n\n2 · Integrate the evidence Signs, symptoms, lab values, imaging, set against: anatomy biochemistry genetics physiology\n\n\nThe bottleneck Assembling all the needed information is difficult and time-consuming\n\n\nThe HRA–HPO bridge + MutationTaster streamlines data integration for clinical diagnostics\n\n\nWang Q, et al. (2022) Deep phenotyping and whole-exome sequencing improved the diagnostic yield for nuclear pedigrees with neurodevelopmental disorders. Mol Genet Genomic Med. 2022 May;10(5):e1918"
+  },
+  {
+    "objectID": "slides/MYO5B.html#myo5b",
+    "href": "slides/MYO5B.html#myo5b",
+    "title": "IBD and IEI",
+    "section": "MYO5B",
+    "text": "MYO5B\n\nMYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8\nDysfunction of MYO5B leads to lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli.\n\n\n\nImage: Bowman DM, et al. (2022) Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. Cell Mol Gastroenterol Hepatol 14:553-565"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HRA-HPO",
+    "section": "",
+    "text": "Topics\n\nBackground\nGenetic diagnostics\nFOXP3\nMYO5B"
   },
   {
     "objectID": "slides/FOXP3.html#foxp3",
@@ -47,13 +61,6 @@
     "title": "IBD and IEI",
     "section": "What would a neutral variant look like?",
     "text": "What would a neutral variant look like?\n\n\n\n\n\n\nEvery individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?\nMutationTaster:benign: c.155G&gt;T / G52V1\n\n\n\nNM_014009/ENST00000376207.4 / chr23:49114808C&gt;A (GRCh37)"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HRA-HPO",
-    "section": "",
-    "text": "What to expect from this course\n\n\nLecture Schedule\n\nBackground\nGenetic diagnostics\nFOXP3"
   },
   {
     "objectID": "slides/background.html#background",
