@@ -1,0 +1,45 @@
+[
+  {
+    "objectID": "slides/background.html#background",
+    "href": "slides/background.html#background",
+    "title": "IBD and IEI",
+    "section": "Background",
+    "text": "Background\n\n\n\nNote\n\n\nData-Driven Differential Diagnosis in Human Genetics\n\nIn today’s presentation we will show how human genetics uses data science and genomics to support differential Diagnostics\nThe overall diagnostic rate in human genetics has improved by roughly 300% in the last two decades\nWe will show how this was made possible using an example of a patient with inflammatory bowel disease1\n\n\n\n\nchronisch-entzündliche Darmerkrankung (abgekürzt CED)",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/background.html#ibd-rare-and-common",
+    "href": "slides/background.html#ibd-rare-and-common",
+    "title": "IBD and IEI",
+    "section": "IBD: Rare and common",
+    "text": "IBD: Rare and common\n\n\nThere are many different diseases characterized by inflammation in the gut\n\nCommon intestinal infections that nearly everyone gets once in a while\nCrohn disease (CD) and ulcerative colitis (UC), together terms inflammatory bowel disease (IBD), ca. 1:200 individuals\nIn addition to IBD there are an increasing number of monogenic diseases that can present with IBD-like immunopathology. The prevalence of these monogenic diseases is very low compared with common intestinal infections, coeliac disease or IBD. As a group, these monogenic defects are associated with high morbidity and even mortality. Due to their clear functional impact, these prototypic ‘orphan’ diseases can inform on functional mechanisms that predispose to intestinal inflammation. Indeed, there is increasing awareness that some aspects of the immune dysfunction in IBD may have similarities to those seen in rare monogenic diseases.\nRare genetic diseases (inborn errors of immunity, IEI) that can display severe, often early-onset manifestations similar to IBD\n\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/background.html#ibd-pathways",
+    "href": "slides/background.html#ibd-pathways",
+    "title": "IBD and IEI",
+    "section": "IBD: Pathways",
+    "text": "IBD: Pathways\n\n\nPathway interaction between key genes associated with inflammatory bowel disease (IBD) and IBD-like monogenic disorders.\nUnderstanding rare diseases with IBD-like features may provide insight for treating common forms\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HRA-HPO",
+    "section": "",
+    "text": "What to expect from this course\n\n\nLecture Schedule\n\nBackground\nIPEX"
+  }
+]
