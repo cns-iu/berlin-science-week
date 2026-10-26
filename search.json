@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "slides/genetic-diagnostics.html#genetic-diagnostics",
+    "href": "slides/genetic-diagnostics.html#genetic-diagnostics",
+    "title": "IBD and IEI",
+    "section": "Genetic diagnostics",
+    "text": "Genetic diagnostics\nto do, some pictures of WGS, LIRICAL, etc."
+  },
+  {
+    "objectID": "slides/FOXP3.html#foxp3",
+    "href": "slides/FOXP3.html#foxp3",
+    "title": "IBD and IEI",
+    "section": "FOXP3",
+    "text": "FOXP3\n\na member of the fork-winged helix family of transcription factors\nimportant role in the development and function of naturally occurring CD4-positive/CD25-positive T regulatory cells (Tregs).\n\n\n\nJosefowicz SZ, Rudensky A. (2009) Control of regulatory T cell lineage commitment and maintenance. Immunity 30:616-25"
+  },
+  {
+    "objectID": "slides/FOXP3.html#hpo",
+    "href": "slides/FOXP3.html#hpo",
+    "title": "IBD and IEI",
+    "section": "HPO",
+    "text": "HPO\n\nImmunodysregulation, polyendocrinopathy, and enteropathy, X-linked"
+  },
+  {
+    "objectID": "slides/FOXP3.html#hpo-profile",
+    "href": "slides/FOXP3.html#hpo-profile",
+    "title": "IBD and IEI",
+    "section": "HPO Profile",
+    "text": "HPO Profile\nTodo"
+  },
+  {
+    "objectID": "slides/FOXP3.html#hra",
+    "href": "slides/FOXP3.html#hra",
+    "title": "IBD and IEI",
+    "section": "HRA",
+    "text": "HRA\nKidney renal corpuscle\n\n\nAdd web widgets with links to major organs involved\n\n\nIntestine (Diarrhea, secretory; Enteropathy; Ileus)\n\n1a. Villi: Villous atrophy seen on biopsy\n\nPancreas (Insulin-dependent diabetes mellitus, type I)\n\n\nThyroid (hypothyroidism)\n\n\nImmunology (Lymphadenopathy, autoantibodies, autoimmune disorders);\n\n\nautoimmune anemia (also autoimmune low platelets, low neutrophils)\n\n\nNervous System (developmental delay, seizure)"
+  },
+  {
+    "objectID": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
+    "href": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
+    "title": "IBD and IEI",
+    "section": "NM_014009.4(FOXP3):c.1112T>G (p.Phe371Cys)",
+    "text": "NM_014009.4(FOXP3):c.1112T&gt;G (p.Phe371Cys)\n\n\nMutationTaster"
+  },
+  {
+    "objectID": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
+    "href": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
+    "title": "IBD and IEI",
+    "section": "What would a neutral variant look like?",
+    "text": "What would a neutral variant look like?\n\n\n\n\n\n\nEvery individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?\nMutationTaster:benign: c.155G&gt;T / G52V1\n\n\n\nNM_014009/ENST00000376207.4 / chr23:49114808C&gt;A (GRCh37)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "HRA-HPO",
+    "section": "",
+    "text": "What to expect from this course\n\n\nLecture Schedule\n\nBackground\nGenetic diagnostics\nFOXP3"
+  },
+  {
     "objectID": "slides/background.html#background",
     "href": "slides/background.html#background",
     "title": "IBD and IEI",
@@ -36,10 +92,15 @@
     ]
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "HRA-HPO",
-    "section": "",
-    "text": "What to expect from this course\n\n\nLecture Schedule\n\nBackground\nIPEX"
+    "objectID": "slides/background.html#todo",
+    "href": "slides/background.html#todo",
+    "title": "IBD and IEI",
+    "section": "Todo",
+    "text": "Todo\n\nTo be finalized: Add a few more background slides in case somebody has questions",
+    "crumbs": [
+      "Home",
+      "Lectures",
+      "IBD and IEI"
+    ]
   }
 ]
