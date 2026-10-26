@@ -1,0 +1,34 @@
+<style>
+  #toc-sidebar {
+    position: fixed; left: 0; top: 0; bottom: 0; width: 200px;
+    padding: 40px 10px; box-sizing: border-box;
+    background: #f8f9fa; border-right: 1px solid #ddd;
+    overflow-y: auto; z-index: 20; font-size: 16px;
+  }
+  #toc-sidebar .toc-item { cursor: pointer; font-size: 1em; margin-bottom: 12px; }
+  .reveal { left: 200px !important; width: calc(100% - 200px) !important; }
+</style>
+<div id="toc-sidebar"><ul class="toc-list"></ul></div>
+<script>
+Reveal.on('ready', () => {
+  const list = document.querySelector('#toc-sidebar .toc-list');
+  const items = [];
+  Reveal.getSlides().forEach(slide => {
+    const h = slide.querySelector('h2');
+    if (!h) return;                      // skips the title slide
+    const li = document.createElement('li');
+    li.className = 'toc-item';
+    li.textContent = h.textContent;
+    li.onclick = () => { const i = Reveal.getIndices(slide); Reveal.slide(i.h, i.v); };
+    list.appendChild(li);
+    items.push({ slide, li });
+  });
+  const update = () => {
+    const cur = Reveal.getCurrentSlide();
+    items.forEach(x => x.li.classList.toggle('toc-active', x.slide === cur));
+  };
+  Reveal.on('slidechanged', update);
+  update();
+  Reveal.layout();
+});
+</script>

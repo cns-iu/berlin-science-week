@@ -30,5 +30,6 @@ format:
 
 ### Lecture Schedule
 * [Background](slides/background.qmd)
-* [IPEX](slides/ontology1.qmd)
+* [Genetic diagnostics](slides/genetic-diagnostics.qmd)
+* [FOXP3](slides/FOXP3.qmd)
 

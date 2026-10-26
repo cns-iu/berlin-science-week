@@ -1,0 +1,79 @@
+---
+title: "IBD and IEI"
+subtitle: "FOXP3"
+author: "Peter N Robinson, Dominik Seelow"
+institute: "Berlin Institute of Health"
+date: 2026-10-26
+format: 
+  revealjs:
+    include-after-body: ../toc-sidebar.html
+    theme: [default] 
+    css: ../style/styles.css            
+    footer: "<span style='margin-left: 3rem;'>[🏠](../index.html)</span>"
+    slide-number: true
+    show-slide-number: all
+    incremental: false 
+    html-math-method: mathjax
+    margin: 0.1
+    embed-resources: true
+    transition: fade
+    background-transition: convex
+    controls: true
+---
+
+
+## FOXP3
+
+* a member of the fork-winged helix family of transcription factors
+* important role in the development and function of naturally occurring CD4-positive/CD25-positive T regulatory cells (Tregs). 
+
+![](./img/foxp3.jpg){width="70%" fig-align="center"}
+
+::: {.tiny-credit}
+Josefowicz SZ, Rudensky A. (2009) [Control of regulatory T cell lineage commitment and maintenance. _Immunity_ **30**:616-25](https://pubmed.ncbi.nlm.nih.gov/19464984/)
+:::
+
+## HPO
+
+
+* [Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked](https://hpo.jax.org/browse/disease/OMIM:304790)
+
+
+
+## HPO Profile
+
+Todo
+
+## HRA
+
+### Kidney renal corpuscle
+
+<iframe data-src="../widgets/ftu-renal-corpuscle.html" width="100%" height="520" style="border:none;"></iframe>
+
+Add web widgets with links to major organs involved
+
+- 1. Intestine (Diarrhea, secretory;  Enteropathy; Ileus)
+- 1a. Villi: Villous atrophy seen on biopsy
+- 2. Pancreas (Insulin-dependent diabetes mellitus, type I)
+- 3. Thyroid (hypothyroidism) 
+- 4. Immunology (Lymphadenopathy, autoantibodies, autoimmune disorders); 
+- 5. autoimmune anemia (also autoimmune low platelets, low neutrophils)
+- 6. Nervous System (developmental delay, seizure)
+
+
+## NM_014009.4(FOXP3):c.1112T>G (p.Phe371Cys)
+
+![](./img/mtsmall.png)
+
+* [MutationTaster](https://teide.charite.de/MT2021/MutationTaster102.cgi?gene=foxp3&transcript_stable_id_text=ENST00000376207&transcript_stable_id_radio=ENST00000376207&new_base=A&sequence_type=CDS&position_be=1150)
+
+
+## What would a neutral variant look like?
+
+![](./img/nanopore.png){width="50%" fig-align="center"}
+
+* Every individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?
+
+* [MutationTaster:benign: c.155G>T / G52V](https://teide.charite.de/MT2021/MutationTaster102.cgi?transcript_stable_id_text=ENST00000376207&alteration_name=2349114808CA_6_ENST00000376207&bases_inserted=T&sequence_type=gDNA&end_insdel=6482&start_insdel=6480
+)^[NM_014009/ENST00000376207.4 / chr23:49114808C>A (GRCh37) ]
+
