@@ -4,14 +4,108 @@
     "href": "slides/genetic-diagnostics.html#genetic-diagnostics",
     "title": "IBD and IEI",
     "section": "Genetic diagnostics",
-    "text": "Genetic diagnostics\n\nHow do clinicians make a diagnosis of genetic disease?\n\n\n\n\n1 · Deep phenotyping Detailed clinical examination\n\n\n2 · Integrate the evidence Signs, symptoms, lab values, imaging, set against: anatomy biochemistry genetics physiology\n\n\nThe bottleneck Assembling all the needed information is difficult and time-consuming\n\n\nThe HRA–HPO bridge + MutationTaster streamlines data integration for clinical diagnostics\n\n\nWang Q, et al. (2022) Deep phenotyping and whole-exome sequencing improved the diagnostic yield for nuclear pedigrees with neurodevelopmental disorders. Mol Genet Genomic Med. 2022 May;10(5):e1918"
+    "text": "Genetic diagnostics\n\nHow do clinicians make a diagnosis of genetic disease?\n\n\n\n\n1 · Deep phenotyping Detailed clinical examination\n\n\n2 · Integrate the evidence Signs, symptoms, lab values, imaging, set against: anatomy biochemistry genetics physiology\n\n\nThe bottleneck Assembling all the needed information is difficult and time-consuming\n\n\nThe HRA–HPO bridge + MutationTaster streamlines data integration for clinical diagnostics\n\n\nWang Q, et al. (2022) Deep phenotyping and whole-exome sequencing improved the diagnostic yield for nuclear pedigrees with neurodevelopmental disorders. Mol Genet Genomic Med. 2022 May;10(5):e1918",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/genetic-diagnostics.html#ipex-syndrome",
+    "href": "slides/genetic-diagnostics.html#ipex-syndrome",
+    "title": "IBD and IEI",
+    "section": "IPEX syndrome",
+    "text": "IPEX syndrome\nWe will leverage information from a published report about individuals with Immune dysregulation, polyendocrinopathy, enteropathy, X linked syndrome (IPEX) to illustrate processes in data-driven genetic diagnostics.\n\nIPEX represents a prototypic defect in the natural regulatory T cell compartment, leading to immunodeficiency and autoimmunity, but also enteropathy and colitis.\nA substantial proportion of IPEX patients have defects in the transcription factor FOXP3 that determines the fate and immunosuppressive activity of natural and a part of induced regulatory T cells.\n\nThe source for the clinical data: * Baud O, et al. (2001) Treatment of the immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX) by allogeneic bone marrow transplantation. N Engl J Med 344:1758-62",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
   },
   {
     "objectID": "slides/MYO5B.html#myo5b",
     "href": "slides/MYO5B.html#myo5b",
     "title": "IBD and IEI",
     "section": "MYO5B",
-    "text": "MYO5B\n\nMYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8\nDysfunction of MYO5B leads to lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli.\n\n\n\nImage: Bowman DM, et al. (2022) Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. Cell Mol Gastroenterol Hepatol 14:553-565"
+    "text": "MYO5B\n\nMYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8\nDysfunction of MYO5B leads to lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli.\n\n\n\nImage: Bowman DM, et al. (2022) Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. Cell Mol Gastroenterol Hepatol 14:553-565",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#foxp3",
+    "href": "slides/FOXP3.html#foxp3",
+    "title": "IBD and IEI",
+    "section": "FOXP3",
+    "text": "FOXP3\n\na member of the fork-winged helix family of transcription factors\nimportant role in the development and function of naturally occurring CD4-positive/CD25-positive T regulatory cells (Tregs).\n\n\n\nJosefowicz SZ, Rudensky A. (2009) Control of regulatory T cell lineage commitment and maintenance. Immunity 30:616-25",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#hpo",
+    "href": "slides/FOXP3.html#hpo",
+    "title": "IBD and IEI",
+    "section": "HPO",
+    "text": "HPO\n\nImmunodysregulation, polyendocrinopathy, and enteropathy, X-linked",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#hpo-profile",
+    "href": "slides/FOXP3.html#hpo-profile",
+    "title": "IBD and IEI",
+    "section": "HPO Profile",
+    "text": "HPO Profile\nTodo",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#hra",
+    "href": "slides/FOXP3.html#hra",
+    "title": "IBD and IEI",
+    "section": "HRA",
+    "text": "HRA\nKidney renal corpuscle\n\n\nAdd web widgets with links to major organs involved\n\n\nIntestine (Diarrhea, secretory; Enteropathy; Ileus)\n\n1a. Villi: Villous atrophy seen on biopsy\n\nPancreas (Insulin-dependent diabetes mellitus, type I)\n\n\nThyroid (hypothyroidism)\n\n\nImmunology (Lymphadenopathy, autoantibodies, autoimmune disorders);\n\n\nautoimmune anemia (also autoimmune low platelets, low neutrophils)\n\n\nNervous System (developmental delay, seizure)",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
+    "href": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
+    "title": "IBD and IEI",
+    "section": "NM_014009.4(FOXP3):c.1112T>G (p.Phe371Cys)",
+    "text": "NM_014009.4(FOXP3):c.1112T&gt;G (p.Phe371Cys)\n\n\nMutationTaster",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
+    "href": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
+    "title": "IBD and IEI",
+    "section": "What would a neutral variant look like?",
+    "text": "What would a neutral variant look like?\n\n\n\n\n\n\nEvery individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?\nMutationTaster:benign: c.155G&gt;T / G52V1\n\n\n\nNM_014009/ENST00000376207.4 / chr23:49114808C&gt;A (GRCh37)",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
   },
   {
     "objectID": "index.html",
@@ -21,46 +115,16 @@
     "text": "Topics\n\nBackground\nGenetic diagnostics\nFOXP3\nMYO5B"
   },
   {
-    "objectID": "slides/FOXP3.html#foxp3",
-    "href": "slides/FOXP3.html#foxp3",
+    "objectID": "slides/INS.html#ins",
+    "href": "slides/INS.html#ins",
     "title": "IBD and IEI",
-    "section": "FOXP3",
-    "text": "FOXP3\n\na member of the fork-winged helix family of transcription factors\nimportant role in the development and function of naturally occurring CD4-positive/CD25-positive T regulatory cells (Tregs).\n\n\n\nJosefowicz SZ, Rudensky A. (2009) Control of regulatory T cell lineage commitment and maintenance. Immunity 30:616-25"
-  },
-  {
-    "objectID": "slides/FOXP3.html#hpo",
-    "href": "slides/FOXP3.html#hpo",
-    "title": "IBD and IEI",
-    "section": "HPO",
-    "text": "HPO\n\nImmunodysregulation, polyendocrinopathy, and enteropathy, X-linked"
-  },
-  {
-    "objectID": "slides/FOXP3.html#hpo-profile",
-    "href": "slides/FOXP3.html#hpo-profile",
-    "title": "IBD and IEI",
-    "section": "HPO Profile",
-    "text": "HPO Profile\nTodo"
-  },
-  {
-    "objectID": "slides/FOXP3.html#hra",
-    "href": "slides/FOXP3.html#hra",
-    "title": "IBD and IEI",
-    "section": "HRA",
-    "text": "HRA\nKidney renal corpuscle\n\n\nAdd web widgets with links to major organs involved\n\n\nIntestine (Diarrhea, secretory; Enteropathy; Ileus)\n\n1a. Villi: Villous atrophy seen on biopsy\n\nPancreas (Insulin-dependent diabetes mellitus, type I)\n\n\nThyroid (hypothyroidism)\n\n\nImmunology (Lymphadenopathy, autoantibodies, autoimmune disorders);\n\n\nautoimmune anemia (also autoimmune low platelets, low neutrophils)\n\n\nNervous System (developmental delay, seizure)"
-  },
-  {
-    "objectID": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
-    "href": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
-    "title": "IBD and IEI",
-    "section": "NM_014009.4(FOXP3):c.1112T>G (p.Phe371Cys)",
-    "text": "NM_014009.4(FOXP3):c.1112T&gt;G (p.Phe371Cys)\n\n\nMutationTaster"
-  },
-  {
-    "objectID": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
-    "href": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
-    "title": "IBD and IEI",
-    "section": "What would a neutral variant look like?",
-    "text": "What would a neutral variant look like?\n\n\n\n\n\n\nEvery individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?\nMutationTaster:benign: c.155G&gt;T / G52V1\n\n\n\nNM_014009/ENST00000376207.4 / chr23:49114808C&gt;A (GRCh37)"
+    "section": "INS",
+    "text": "INS\ntodo",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
   },
   {
     "objectID": "slides/background.html#background",
@@ -70,7 +134,7 @@
     "text": "Background\n\n\n\nNote\n\n\nData-Driven Differential Diagnosis in Human Genetics\n\nIn today’s presentation we will show how human genetics uses data science and genomics to support differential Diagnostics\nThe overall diagnostic rate in human genetics has improved by roughly 300% in the last two decades\nWe will show how this was made possible using an example of a patient with inflammatory bowel disease1\n\n\n\n\nchronisch-entzündliche Darmerkrankung (abgekürzt CED)",
     "crumbs": [
       "Home",
-      "Lectures",
+      "Topics",
       "IBD and IEI"
     ]
   },
@@ -82,7 +146,7 @@
     "text": "IBD: Rare and common\n\n\nThere are many different diseases characterized by inflammation in the gut\n\nCommon intestinal infections that nearly everyone gets once in a while\nCrohn disease (CD) and ulcerative colitis (UC), together terms inflammatory bowel disease (IBD), ca. 1:200 individuals\nIn addition to IBD there are an increasing number of monogenic diseases that can present with IBD-like immunopathology. The prevalence of these monogenic diseases is very low compared with common intestinal infections, coeliac disease or IBD. As a group, these monogenic defects are associated with high morbidity and even mortality. Due to their clear functional impact, these prototypic ‘orphan’ diseases can inform on functional mechanisms that predispose to intestinal inflammation. Indeed, there is increasing awareness that some aspects of the immune dysfunction in IBD may have similarities to those seen in rare monogenic diseases.\nRare genetic diseases (inborn errors of immunity, IEI) that can display severe, often early-onset manifestations similar to IBD\n\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
     "crumbs": [
       "Home",
-      "Lectures",
+      "Topics",
       "IBD and IEI"
     ]
   },
@@ -94,7 +158,7 @@
     "text": "IBD: Pathways\n\n\nPathway interaction between key genes associated with inflammatory bowel disease (IBD) and IBD-like monogenic disorders.\nUnderstanding rare diseases with IBD-like features may provide insight for treating common forms\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
     "crumbs": [
       "Home",
-      "Lectures",
+      "Topics",
       "IBD and IEI"
     ]
   },
@@ -106,7 +170,7 @@
     "text": "Todo\n\nTo be finalized: Add a few more background slides in case somebody has questions",
     "crumbs": [
       "Home",
-      "Lectures",
+      "Topics",
       "IBD and IEI"
     ]
   }
