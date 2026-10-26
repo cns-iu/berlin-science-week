@@ -1,0 +1,34 @@
+---
+title: "HRA-HPO"
+subtitle: "Data Science for Differential Diagnostics in Rare Disease"
+author: "Peter N Robinson, Dominik Seelow"
+institute: "Berlin Institute of Health"
+date: 2026-10-26
+format: 
+  html:
+    theme: [default] 
+    css: style/styles.css
+    logo: images/fu_berlin_logo.png 
+    footer: "bioonto-llm"
+    slide-number: true
+    show-slide-number: all
+    incremental: false 
+    html-math-method: mathjax
+    margin: 0.1
+    embed-resources: true
+    transition: fade
+    background-transition: convex
+    controls: true
+---
+
+
+
+
+
+
+* [What to expect from this course](lectures/overview.qmd)
+
+### Lecture Schedule
+* [Background](slides/background.qmd)
+* [IPEX](slides/ontology1.qmd)
+
