@@ -1,0 +1,29 @@
+---
+title: "IBD and IEI"
+subtitle: "MYO5B"
+author: "Peter N Robinson, Dominik Seelow"
+institute: "Berlin Institute of Health"
+date: 2026-10-26
+format: 
+  revealjs:
+    include-after-body: ../toc-sidebar.html
+    theme: [default] 
+    css: ../style/styles.css            
+    footer: "<span style='margin-left: 3rem;'>[🏠](../index.html)</span>"
+    slide-number: true
+    show-slide-number: all
+    incremental: false 
+    html-math-method: mathjax
+    margin: 0.1
+    embed-resources: true
+    transition: fade
+    background-transition: convex
+    controls: true
+---
+
+
+
+
+## INS
+
+todo

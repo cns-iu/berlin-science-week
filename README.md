@@ -24,7 +24,7 @@ pip install jupyter ipykernel
 and then start the server.
 ```bash
 source venv/bin/activate
-quarto preview index.qmd
+quarto preview 
 ```
 
 

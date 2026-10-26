@@ -16,9 +16,12 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - section: "Lectures"
+      - section: "Topics"
         contents:
           - slides/background.qmd
-          - lectures/ontology1.qmd
+          - slides/genetic-diagnostics.qmd
+          - slides/FOXP3.qmd
+          - slides/MYO5B.qmd
+          - slides/INS.qmd
 
 

@@ -67,3 +67,15 @@ Wang Q, et al. (2022) [Deep phenotyping and whole-exome sequencing improved the 
 :::
 
 ::::
+
+
+## IPEX syndrome
+
+We will leverage information from a published report about individuals with 
+[Immune dysregulation, polyendocrinopathy, enteropathy, X linked syndrome (IPEX)](https://omim.org/entry/304790) to illustrate processes in data-driven genetic diagnostics.
+
+* IPEX represents a prototypic defect in the natural regulatory T cell compartment, leading to immunodeficiency and autoimmunity, but also enteropathy and colitis.
+* A substantial proportion of IPEX patients have defects in the transcription factor FOXP3 that determines the fate and immunosuppressive activity of natural and a part of induced regulatory T cells. 
+
+The source for the clinical data:
+* Baud O, et al. (2001) [Treatment of the immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX) by allogeneic bone marrow transplantation. _N Engl J Med_ **344**:1758-62](https://pubmed.ncbi.nlm.nih.gov/11396442/)
