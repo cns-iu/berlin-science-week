@@ -1,0 +1,36 @@
+---
+title: "IBD and IEI"
+subtitle: "MYO5B"
+author: "Peter N Robinson, Dominik Seelow"
+institute: "Berlin Institute of Health"
+date: 2026-10-26
+format: 
+  revealjs:
+    include-after-body: ../toc-sidebar.html
+    theme: [default] 
+    css: ../style/styles.css            
+    footer: "<span style='margin-left: 3rem;'>[🏠](../index.html)</span>"
+    slide-number: true
+    show-slide-number: all
+    incremental: false 
+    html-math-method: mathjax
+    margin: 0.1
+    embed-resources: true
+    transition: fade
+    background-transition: convex
+    controls: true
+---
+
+
+
+
+## MYO5B
+
+* MYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8 
+* Dysfunction of MYO5B leads to  lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli. 
+
+![](./img/MYO5B.png){width="70%" fig-align="center"}
+
+::: {.tiny-credit}
+Image: Bowman DM, et al. (2022) [Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. _Cell Mol Gastroenterol Hepatol_ **14**:553-565](https://pubmed.ncbi.nlm.nih.gov/35660026/)
+:::

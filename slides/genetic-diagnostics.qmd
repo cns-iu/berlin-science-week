@@ -20,7 +20,50 @@ format:
     controls: true
 ---
 
+## Genetic diagnostics {.center-title}
 
-## Genetic diagnostics
+::: {.question}
+How do clinicians make a diagnosis of genetic disease?
+:::
 
-to do, some pictures of WGS, LIRICAL, etc.
+:::: {.columns}
+
+::: {.column width="62%"}
+
+::: {.step-card .fragment}
+**1 · Deep phenotyping**<br>
+Detailed clinical examination
+:::
+
+::: {.step-card .fragment}
+**2 · Integrate the evidence**<br>
+Signs, symptoms, lab values, imaging, set against:
+<span class="pill">anatomy</span>
+<span class="pill">biochemistry</span>
+<span class="pill">genetics</span>
+<span class="pill">physiology</span>
+:::
+
+::: {.step-card .warn .fragment}
+**The bottleneck**<br>
+Assembling all the needed information is difficult and time-consuming
+:::
+
+::: {.step-card .goal .fragment}
+**The HRA–HPO bridge** + MutationTaster<br>
+streamlines data integration for clinical diagnostics
+:::
+
+
+::: {.tiny-credit}
+Wang Q, et al. (2022) [Deep phenotyping and whole-exome sequencing improved the diagnostic yield for nuclear pedigrees with neurodevelopmental disorders. Mol Genet Genomic Med. 2022 May;10(5):e1918](https://pubmed.ncbi.nlm.nih.gov/35266334/)
+:::
+
+
+:::
+
+::: {.column width="38%"}
+![](./img/hpo-deep-pheno.jpg){.shadow-img fig-align="center"}
+:::
+
+::::
