@@ -2,109 +2,169 @@
   {
     "objectID": "slides/genetic-diagnostics.html#genetic-diagnostics",
     "href": "slides/genetic-diagnostics.html#genetic-diagnostics",
-    "title": "IBD and IEI",
+    "title": "Genetic diagnostics",
     "section": "Genetic diagnostics",
     "text": "Genetic diagnostics\n\nHow do clinicians make a diagnosis of genetic disease?\n\n\n\n\n1 · Deep phenotyping Detailed clinical examination\n\n\n2 · Integrate the evidence Signs, symptoms, lab values, imaging, set against: anatomy biochemistry genetics physiology\n\n\nThe bottleneck Assembling all the needed information is difficult and time-consuming\n\n\nThe HRA–HPO bridge + MutationTaster streamlines data integration for clinical diagnostics\n\n\nWang Q, et al. (2022) Deep phenotyping and whole-exome sequencing improved the diagnostic yield for nuclear pedigrees with neurodevelopmental disorders. Mol Genet Genomic Med. 2022 May;10(5):e1918",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "Genetic diagnostics"
     ]
   },
   {
     "objectID": "slides/genetic-diagnostics.html#ipex-syndrome",
     "href": "slides/genetic-diagnostics.html#ipex-syndrome",
-    "title": "IBD and IEI",
+    "title": "Genetic diagnostics",
     "section": "IPEX syndrome",
-    "text": "IPEX syndrome\nWe will leverage information from a published report about individuals with Immune dysregulation, polyendocrinopathy, enteropathy, X linked syndrome (IPEX) to illustrate processes in data-driven genetic diagnostics.\n\nIPEX represents a prototypic defect in the natural regulatory T cell compartment, leading to immunodeficiency and autoimmunity, but also enteropathy and colitis.\nA substantial proportion of IPEX patients have defects in the transcription factor FOXP3 that determines the fate and immunosuppressive activity of natural and a part of induced regulatory T cells.\n\nThe source for the clinical data: * Baud O, et al. (2001) Treatment of the immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX) by allogeneic bone marrow transplantation. N Engl J Med 344:1758-62",
+    "text": "IPEX syndrome\n\nWhat can a published IPEX case report teach us about data-driven diagnosis?\n\n\nThe disease Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX)\n\n\nThe defect A prototypic defect in the natural regulatory T cell compartment, leading to immunodeficiency, autoimmunity, enteropathy and colitis\n\n\nThe gene Many IPEX patients have defects in the transcription factor FOXP3, which determines the fate and immunosuppressive activity of natural and some induced regulatory T cells\n\n\nSource of the clinical data: Baud O, et al. (2001) Treatment of the immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX) by allogeneic bone marrow transplantation. N Engl J Med 344:1758-62",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "Genetic diagnostics"
+    ]
+  },
+  {
+    "objectID": "slides/genetic-diagnostics.html#family-history",
+    "href": "slides/genetic-diagnostics.html#family-history",
+    "title": "Genetic diagnostics",
+    "section": "Family history",
+    "text": "Family history\n\n\n\n\n\n\n\n\n\nMother Unexplained spontaneous abortion in the fourth month of one pregnancy\n\n\nFour healthy daughters Aged 11, 16, 18 and 19\n\n\nOne son, died at 4.5 months Intractable diarrhea, thrombocytopenia, insulin-dependent diabetes mellitus, ichthyosiform dermatitis. Duodenal biopsy: villous atrophy. Autopsy: lymphocyte and plasmocyte infiltration of liver, small bowel, colon and pancreas\n\n\nNo diagnosis was made at the time",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "Genetic diagnostics"
+    ]
+  },
+  {
+    "objectID": "slides/genetic-diagnostics.html#coding-data-as-hpo",
+    "href": "slides/genetic-diagnostics.html#coding-data-as-hpo",
+    "title": "Genetic diagnostics",
+    "section": "Coding data as HPO",
+    "text": "Coding data as HPO",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "Genetic diagnostics"
+    ]
+  },
+  {
+    "objectID": "slides/genetic-diagnostics.html#phenoboard-ipex-textmining-results",
+    "href": "slides/genetic-diagnostics.html#phenoboard-ipex-textmining-results",
+    "title": "Genetic diagnostics",
+    "section": "Phenoboard: IPEX Textmining results",
+    "text": "Phenoboard: IPEX Textmining results",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "Genetic diagnostics"
+    ]
+  },
+  {
+    "objectID": "slides/genetic-diagnostics.html#differential-diagnosis-sams",
+    "href": "slides/genetic-diagnostics.html#differential-diagnosis-sams",
+    "title": "Genetic diagnostics",
+    "section": "Differential diagnosis: SAMS",
+    "text": "Differential diagnosis: SAMS\n\nDifferential diagnosis (SAMS) Ranked candidate diagnoses from the patient’s HPO terms\n\n\nSteinhaus R, et al. (2022) Deep phenotyping: symptom annotation made simple with SAMS. Nucleic Acids Res 50:W677-W681. PMID 35524573",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "Genetic diagnostics"
     ]
   },
   {
     "objectID": "slides/MYO5B.html#myo5b",
     "href": "slides/MYO5B.html#myo5b",
-    "title": "IBD and IEI",
+    "title": "MYO5B",
     "section": "MYO5B",
     "text": "MYO5B\n\nMYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8\nDysfunction of MYO5B leads to lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli.\n\n\n\nImage: Bowman DM, et al. (2022) Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. Cell Mol Gastroenterol Hepatol 14:553-565",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "MYO5B"
     ]
   },
   {
     "objectID": "slides/FOXP3.html#foxp3",
     "href": "slides/FOXP3.html#foxp3",
-    "title": "IBD and IEI",
+    "title": "FOXP3",
     "section": "FOXP3",
-    "text": "FOXP3\n\na member of the fork-winged helix family of transcription factors\nimportant role in the development and function of naturally occurring CD4-positive/CD25-positive T regulatory cells (Tregs).\n\n\n\nJosefowicz SZ, Rudensky A. (2009) Control of regulatory T cell lineage commitment and maintenance. Immunity 30:616-25",
+    "text": "FOXP3\n\n\n\nProtein family A member of the fork-winged helix family of transcription factors\n\n\nFunction\nImportant for the development and function of naturally occurring CD4+/CD25+ T regulatory cells (Tregs)\n\n\n\n\n\n\n\n\n\nJosefowicz SZ, Rudensky A. (2009) Control of regulatory T cell lineage commitment and maintenance. Immunity 30:616-25",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "FOXP3"
     ]
   },
   {
     "objectID": "slides/FOXP3.html#hpo",
     "href": "slides/FOXP3.html#hpo",
-    "title": "IBD and IEI",
+    "title": "FOXP3",
     "section": "HPO",
-    "text": "HPO\n\nImmunodysregulation, polyendocrinopathy, and enteropathy, X-linked",
+    "text": "HPO\n\nDisease annotated with HPO terms Immunodysregulation, polyendocrinopathy, and enteropathy, X-linked",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "FOXP3"
     ]
   },
   {
-    "objectID": "slides/FOXP3.html#hpo-profile",
-    "href": "slides/FOXP3.html#hpo-profile",
-    "title": "IBD and IEI",
-    "section": "HPO Profile",
-    "text": "HPO Profile\nTodo",
+    "objectID": "slides/FOXP3.html#small-intestine",
+    "href": "slides/FOXP3.html#small-intestine",
+    "title": "FOXP3",
+    "section": "Small intestine",
+    "text": "Small intestine\n\n\n\n\n\nHuman Reference Atlas Small Intestine\n\n\n\n\n\n\n\n\nA duodenal-biopsy specimen: a flattened mucosa with absent or necrotic crypts\n\n\n\n\nVillous atrophy (HP:0011473)",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "FOXP3"
     ]
   },
   {
-    "objectID": "slides/FOXP3.html#hra",
-    "href": "slides/FOXP3.html#hra",
-    "title": "IBD and IEI",
-    "section": "HRA",
-    "text": "HRA\nKidney renal corpuscle\n\n\nAdd web widgets with links to major organs involved\n\n\nIntestine (Diarrhea, secretory; Enteropathy; Ileus)\n\n1a. Villi: Villous atrophy seen on biopsy\n\nPancreas (Insulin-dependent diabetes mellitus, type I)\n\n\nThyroid (hypothyroidism)\n\n\nImmunology (Lymphadenopathy, autoantibodies, autoimmune disorders);\n\n\nautoimmune anemia (also autoimmune low platelets, low neutrophils)\n\n\nNervous System (developmental delay, seizure)",
+    "objectID": "slides/FOXP3.html#pancreas",
+    "href": "slides/FOXP3.html#pancreas",
+    "title": "FOXP3",
+    "section": "Pancreas",
+    "text": "Pancreas\n\n\n\n\n\nHuman Reference Atlas Pancreas\n\n\n\n\n\n\n\n\nAbsence of recognizable pancreatic tissue of a patient with classic IPEX syndrome (c.227delT, p.Leu74GlnfsX53 mutation).\n\n\n\n\nType I diabetes mellitus (HP:0100651)\n\n\n\nimage: Rubio-Cabezas O, et al. (2009) Clinical heterogeneity in patients with FOXP3 mutations presenting with permanent neonatal diabetes. Diabetes Care 32:111-6",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "FOXP3"
+    ]
+  },
+  {
+    "objectID": "slides/FOXP3.html#skin",
+    "href": "slides/FOXP3.html#skin",
+    "title": "FOXP3",
+    "section": "Skin",
+    "text": "Skin\n\n\n\n\n\n\nHPO term Eczematoid dermatitis HP:0000964",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "FOXP3"
     ]
   },
   {
     "objectID": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
     "href": "slides/FOXP3.html#nm_014009.4foxp3c.1112tg-p.phe371cys",
-    "title": "IBD and IEI",
+    "title": "FOXP3",
     "section": "NM_014009.4(FOXP3):c.1112T>G (p.Phe371Cys)",
-    "text": "NM_014009.4(FOXP3):c.1112T&gt;G (p.Phe371Cys)\n\n\nMutationTaster",
+    "text": "NM_014009.4(FOXP3):c.1112T&gt;G (p.Phe371Cys)\n\n\n\n\n\n\n\n\n\nPredicted effect Open the MutationTaster result",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "FOXP3"
     ]
   },
   {
     "objectID": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
     "href": "slides/FOXP3.html#what-would-a-neutral-variant-look-like",
-    "title": "IBD and IEI",
+    "title": "FOXP3",
     "section": "What would a neutral variant look like?",
-    "text": "What would a neutral variant look like?\n\n\n\n\n\n\nEvery individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?\nMutationTaster:benign: c.155G&gt;T / G52V1\n\n\n\nNM_014009/ENST00000376207.4 / chr23:49114808C&gt;A (GRCh37)",
+    "text": "What would a neutral variant look like?\n\n\n\n\n\n\n\n\n\nEvery individual has between 4-5 million variants, the vast majority of which are benign. But how do we know they are benign?\n\n\nMutationTaster: benign, c.155G&gt;T / G52V1\n\n\n\n\nNM_014009/ENST00000376207.4 / chr23:49114808C&gt;A (GRCh37)",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "FOXP3"
     ]
   },
   {
@@ -112,18 +172,18 @@
     "href": "index.html",
     "title": "HRA-HPO",
     "section": "",
-    "text": "Topics\n\nBackground\nGenetic diagnostics\nFOXP3\nMYO5B"
+    "text": "Topics\n\nBackground\nGenetic diagnostics\nFOXP3\nMYO5B\nINS"
   },
   {
     "objectID": "slides/INS.html#ins",
     "href": "slides/INS.html#ins",
-    "title": "IBD and IEI",
+    "title": "INS",
     "section": "INS",
-    "text": "INS\ntodo",
+    "text": "INS\n\n\nINS codes for Proinsulin, which is converted to insulin by the enzymatic removal of a segment that connects the amino end of the A chain to the carboxyl end of the B chain.\nMutations in INS lead to Diabetes mellitus, permanent neonatal 4 and related genetic diseases\n\n\nImage: Dhayalan B, et al. (2021) Structural Lessons From the Mutant Proinsulin Syndrome. Front Endocrinol (Lausanne) 12:754693",
     "crumbs": [
       "Home",
       "Topics",
-      "IBD and IEI"
+      "INS"
     ]
   },
   {
@@ -131,7 +191,7 @@
     "href": "slides/background.html#background",
     "title": "IBD and IEI",
     "section": "Background",
-    "text": "Background\n\n\n\nNote\n\n\nData-Driven Differential Diagnosis in Human Genetics\n\nIn today’s presentation we will show how human genetics uses data science and genomics to support differential Diagnostics\nThe overall diagnostic rate in human genetics has improved by roughly 300% in the last two decades\nWe will show how this was made possible using an example of a patient with inflammatory bowel disease1\n\n\n\n\nchronisch-entzündliche Darmerkrankung (abgekürzt CED)",
+    "text": "Background\n\nData-Driven Differential Diagnosis in Human Genetics\n\n\nToday’s talk How human genetics uses data science and genomics to support differential diagnostics\n\n\nThe diagnostic rate in human genetics has improved by roughly 300% in the last two decades\n\n\nOur example A patient with a Mendelian mimic of inflammatory bowel disease1\n\nchronisch-entzündliche Darmerkrankung (abgekürzt CED)",
     "crumbs": [
       "Home",
       "Topics",
@@ -143,7 +203,7 @@
     "href": "slides/background.html#ibd-rare-and-common",
     "title": "IBD and IEI",
     "section": "IBD: Rare and common",
-    "text": "IBD: Rare and common\n\n\nThere are many different diseases characterized by inflammation in the gut\n\nCommon intestinal infections that nearly everyone gets once in a while\nCrohn disease (CD) and ulcerative colitis (UC), together terms inflammatory bowel disease (IBD), ca. 1:200 individuals\nIn addition to IBD there are an increasing number of monogenic diseases that can present with IBD-like immunopathology. The prevalence of these monogenic diseases is very low compared with common intestinal infections, coeliac disease or IBD. As a group, these monogenic defects are associated with high morbidity and even mortality. Due to their clear functional impact, these prototypic ‘orphan’ diseases can inform on functional mechanisms that predispose to intestinal inflammation. Indeed, there is increasing awareness that some aspects of the immune dysfunction in IBD may have similarities to those seen in rare monogenic diseases.\nRare genetic diseases (inborn errors of immunity, IEI) that can display severe, often early-onset manifestations similar to IBD\n\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
+    "text": "IBD: Rare and common\n\n\n\n\n\n\n\n\n\nCommon Intestinal infections that nearly everyone gets once in a while\n\n\nCrohn disease (CD) and ulcerative colitis (UC) Together termed inflammatory bowel disease (IBD), ca. 1:200 individuals\n\n\nRare Inborn errors of immunity (IEI), monogenic diseases that can present with IBD-like immunopathology, often severe and early-onset\n\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
     "crumbs": [
       "Home",
       "Topics",
@@ -155,7 +215,7 @@
     "href": "slides/background.html#ibd-pathways",
     "title": "IBD and IEI",
     "section": "IBD: Pathways",
-    "text": "IBD: Pathways\n\n\nPathway interaction between key genes associated with inflammatory bowel disease (IBD) and IBD-like monogenic disorders.\nUnderstanding rare diseases with IBD-like features may provide insight for treating common forms\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
+    "text": "IBD: Pathways\n\n\n\n\n\n\n\n\n\nPathway interaction between key genes associated with inflammatory bowel disease (IBD) and IBD-like monogenic disorders\n\n\nUnderstanding rare diseases with IBD-like features may provide insight for treating common forms\n\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
     "crumbs": [
       "Home",
       "Topics",
@@ -163,11 +223,23 @@
     ]
   },
   {
-    "objectID": "slides/background.html#todo",
-    "href": "slides/background.html#todo",
+    "objectID": "slides/background.html#ibd-pathophysiology",
+    "href": "slides/background.html#ibd-pathophysiology",
     "title": "IBD and IEI",
-    "section": "Todo",
-    "text": "Todo\n\nTo be finalized: Add a few more background slides in case somebody has questions",
+    "section": "IBD: Pathophysiology",
+    "text": "IBD: Pathophysiology\n\n\n\n\n\n\n\n\n\nThe model Key intestinal defence functions and cellular immune regulation components are impaired in monogenic disorders with an IBD-like phenotype\n\n\nThe defects Epithelial barrier and response, neutrophil numbers, phagocytosis and bacterial killing, and gut innervation. Together they increase bacterial translocation across the epithelium and bacterial survival\n\n\n\nimage: Uhlig HH. Monogenic diseases associated with intestinal inflammation: implications for the understanding of inflammatory bowel disease. Gut. 2013 PMID: 24203055.",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "IBD and IEI"
+    ]
+  },
+  {
+    "objectID": "slides/background.html#rare-in-common",
+    "href": "slides/background.html#rare-in-common",
+    "title": "IBD and IEI",
+    "section": "Rare in common",
+    "text": "Rare in common\n\nIs “common disease” always what it seems?\n\n\n70 of 1480 (4.73%) participants with IBD, from five clinical trials, had pathogenic or likely pathogenic variants in a relevant gene\n\n\n31 of 33 of those with a rare disease-causing variant showed no or only a short-term response to adalimumab, a TNF-α inhibitor approved by the FDA for Crohn’s disease and ulcerative colitis\n\n\nIn clinical practice, rare forms of common disease may be difficult to recognize. Misdiagnoses of rare diseases as common ones are not infrequent.\n\n\n\nRahimov F, et al. (2025) Common Diseases in Clinical Cohorts - Not Always What They Seem. N Engl J Med 393:1589-1598\nRobinson PN (2025) A Rare-in-Common Paradigm for Precision Genomic Medicine. N Engl J Med 393:1648-1649",
     "crumbs": [
       "Home",
       "Topics",
