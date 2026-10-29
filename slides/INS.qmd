@@ -1,6 +1,6 @@
 ---
-title: "IBD and IEI"
-subtitle: "MYO5B"
+title: "INS"
+subtitle: "Insulin"
 author: "Peter N Robinson, Dominik Seelow"
 institute: "Berlin Institute of Health"
 date: 2026-10-26
@@ -26,4 +26,16 @@ format:
 
 ## INS
 
-todo
+![](./img/INS.png){width="70%" fig-align="center"}
+
+* INS codes for Proinsulin, which is converted to insulin by the enzymatic removal of a segment that connects the amino end of the A chain to the carboxyl end of the B chain. 
+* Mutations in _INS_ lead to [Diabetes mellitus, permanent neonatal 4](https://omim.org/entry/176730) and related genetic diseases
+
+
+::: {.tiny-credit}
+Image: Dhayalan B, et al. (2021) [Structural Lessons From the Mutant Proinsulin Syndrome. _Front Endocrinol (Lausanne)_ **12**:754693](https://pubmed.ncbi.nlm.nih.gov/34659132/)
+
+
+
+ 
+:::

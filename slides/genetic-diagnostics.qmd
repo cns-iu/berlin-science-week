@@ -1,6 +1,6 @@
 ---
-title: "IBD and IEI"
-subtitle: "Genetic diagnostics"
+title: "Genetic diagnostics"
+subtitle: "How do clinicians find the correct diagnosis in medical genetics?"
 author: "Peter N Robinson, Dominik Seelow"
 institute: "Berlin Institute of Health"
 date: 2026-10-26

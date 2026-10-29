@@ -27,4 +27,5 @@ format:
 * [Genetic diagnostics](slides/genetic-diagnostics.qmd)
 * [FOXP3](slides/FOXP3.qmd)
 * [MYO5B](slides/MYO5B.qmd)
+* [INS](slides/INS.qmd)
 

@@ -1,6 +1,6 @@
 ---
-title: "IBD and IEI"
-subtitle: "FOXP3"
+title: "FOXP3"
+subtitle: "Forkhead-Box-Protein P3"
 author: "Peter N Robinson, Dominik Seelow"
 institute: "Berlin Institute of Health"
 date: 2026-10-26
@@ -63,7 +63,7 @@ Add web widgets with links to major organs involved
 
 ## NM_014009.4(FOXP3):c.1112T>G (p.Phe371Cys)
 
-![](./img/mtsmall.png)
+![](./img/MutationTaster.svg)
 
 * [MutationTaster](https://teide.charite.de/MT2021/MutationTaster102.cgi?gene=foxp3&transcript_stable_id_text=ENST00000376207&transcript_stable_id_radio=ENST00000376207&new_base=A&sequence_type=CDS&position_be=1150)
 

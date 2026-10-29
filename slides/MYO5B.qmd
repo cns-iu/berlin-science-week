@@ -1,6 +1,6 @@
 ---
-title: "IBD and IEI"
-subtitle: "MYO5B"
+title: "MYO5B"
+subtitle: "Myosin-Vb"
 author: "Peter N Robinson, Dominik Seelow"
 institute: "Berlin Institute of Health"
 date: 2026-10-26
