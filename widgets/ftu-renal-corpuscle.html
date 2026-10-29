@@ -2,16 +2,17 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <title>FTU UI</title>
-    <link href="https://cdn.humanatlas.io/ui/ftu-ui/styles.css" rel="stylesheet" />
-    <script src="https://cdn.humanatlas.io/ui/ftu-ui/polyfills.js" type="module"></script>
-    <script src="https://cdn.humanatlas.io/ui/ftu-ui/main.js" type="module"></script>
+    <title>FTU Ui Small Web Component</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link href="https://cdn.humanatlas.io/ui/ftu-ui-small-wc/styles.css" rel="stylesheet" />
+    <script src="https://cdn.humanatlas.io/ui/ftu-ui-small-wc/wc.js" type="module"></script>
   </head>
   <body style="margin: 0">
-    <hra-ftu-ui
-      style="display:block; height:100vh"
-      base-href="https://cdn.humanatlas.io/ui/ftu-ui/"
-      selected-illustration="https://purl.humanatlas.io/2d-ftu/kidney-renal-corpuscle">
-    </hra-ftu-ui>
+    <hra-ftu-ui-small
+      selected-illustration="https://purl.humanatlas.io/2d-ftu/kidney-renal-corpuscle"
+      base-href="https://cdn.humanatlas.io/ui/ftu-ui-small-wc/"
+      datasets="assets/TEMP/ftu-datasets.jsonld"
+      summaries="assets/TEMP/ftu-cell-summaries.jsonld"
+    />
   </body>
 </html>
