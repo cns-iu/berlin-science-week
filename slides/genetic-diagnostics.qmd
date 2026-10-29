@@ -71,25 +71,62 @@ Wang Q, et al. (2022) [Deep phenotyping and whole-exome sequencing improved the 
 
 ## IPEX syndrome
 
-We will leverage information from a published report about individuals with 
-[Immune dysregulation, polyendocrinopathy, enteropathy, X linked syndrome (IPEX)](https://omim.org/entry/304790) to illustrate processes in data-driven genetic diagnostics.
+::: {.question}
+What can a published IPEX case report teach us about data-driven diagnosis?
+:::
 
-* IPEX represents a prototypic defect in the natural regulatory T cell compartment, leading to immunodeficiency and autoimmunity, but also enteropathy and colitis.
-* A substantial proportion of IPEX patients have defects in the transcription factor FOXP3 that determines the fate and immunosuppressive activity of natural and a part of induced regulatory T cells. 
+::: {.step-card}
+**The disease**<br>
+[Immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX)](https://omim.org/entry/304790)
+:::
 
-The source for the clinical data:
+::: {.step-card .goal}
+**The defect**<br>
+A prototypic defect in the natural regulatory T cell compartment, leading to immunodeficiency, autoimmunity, enteropathy and colitis
+:::
 
-* Baud O, et al. (2001) [Treatment of the immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX) by allogeneic bone marrow transplantation. _N Engl J Med_ **344**:1758-62](https://pubmed.ncbi.nlm.nih.gov/11396442/)
+::: {.step-card}
+**The gene**<br>
+Many IPEX patients have defects in the transcription factor *FOXP3*, which determines the fate and immunosuppressive activity of natural and some induced regulatory T cells
+:::
+
+::: {.tiny-credit}
+Source of the clinical data: Baud O, et al. (2001) [Treatment of the immune dysregulation, polyendocrinopathy, enteropathy, X-linked syndrome (IPEX) by allogeneic bone marrow transplantation. _N Engl J Med_ **344**:1758-62](https://pubmed.ncbi.nlm.nih.gov/11396442/)
+:::
+
 
 ## Family history
 
-![](./img/ipex-ped.jpg){.shadow-img fig-align="center"}
+:::::: {.columns}
 
-- The mother  had had an unexplained spontaneous abortion during the fourth month of one pregnancy
-- She had four healthy daughters who were 11, 16, 18, and 19 years old. 
-- One son had died at 4.5 months of age from intractable diarrhea, thrombocytopenia, insulin-dependent diabetes mellitus, and ichthyosiform dermatitis. 
-- A biopsy of the duodenal mucous membrane from this child showed villous atrophy, and autopsy showed infiltration by lymphocytes and plasmocytes of the liver, small bowel, colon, and pancreas.
-- No diagnosis was made at the time
+::::: {.column width="50%"}
+![](./img/ipex-ped.jpg){.shadow-img fig-align="center"}
+:::::
+
+::::: {.column width="50%"}
+
+::: {.step-card}
+**Mother**<br>
+Unexplained spontaneous abortion in the fourth month of one pregnancy
+:::
+
+::: {.step-card}
+**Four healthy daughters**<br>
+Aged 11, 16, 18 and 19
+:::
+
+::: {.step-card .warn}
+**One son, died at 4.5 months**<br>
+Intractable diarrhea, thrombocytopenia, insulin-dependent diabetes mellitus, ichthyosiform dermatitis. Duodenal biopsy: villous atrophy. Autopsy: lymphocyte and plasmocyte infiltration of liver, small bowel, colon and pancreas
+:::
+
+::: {.step-card .goal}
+No diagnosis was made at the time
+:::
+
+:::::
+
+::::::
 
 ## Coding data as HPO
 
@@ -104,7 +141,11 @@ The source for the clinical data:
 
 ## Differential diagnosis: SAMS
 
-- [Differential diagnosis (SAMS)](https://www.genecascade.org/sams-cgi/phenotype.cgi?phenotype=*HP5978%7C*HP40216%7C*HP1873%7C*HP4844%7C)
+::: {.step-card .goal}
+**[Differential diagnosis (SAMS)](https://www.genecascade.org/sams-cgi/phenotype.cgi?phenotype=*HP5978%7C*HP40216%7C*HP1873%7C*HP4844%7C)**<br>
+Ranked candidate diagnoses from the patient's HPO terms
+:::
 
-
-- [Steinhaus R, et al. (2022) Deep phenotyping: symptom annotation made simple with SAMS. _Nucleic Acids Res_ **50**:W677-W681](https://pubmed.ncbi.nlm.nih.gov/35524573/)
+::: {.tiny-credit}
+Steinhaus R, et al. (2022) Deep phenotyping: symptom annotation made simple with SAMS. _Nucleic Acids Res_ **50**:W677-W681. [PMID 35524573](https://pubmed.ncbi.nlm.nih.gov/35524573/)
+:::
