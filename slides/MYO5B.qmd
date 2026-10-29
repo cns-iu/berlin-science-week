@@ -98,7 +98,7 @@ Human Reference Atlas Small Intestine
 :::::: {.columns}
 
 ::::: {.column width="30%"}
-![](./img/MutationTaster.svg){.shadow-img width="100%" fig-align="center"}
+![](./img/mthr.png){.shadow-img width="100%" fig-align="center"}
 :::::
 
 ::::: {.column width="70%"}

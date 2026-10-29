@@ -104,7 +104,7 @@ image: [Rubio-Cabezas O, et al. (2009) Clinical heterogeneity in patients with F
 :::::: {.columns}
 
 ::::: {.column width="30%"}
-![](./img/MutationTaster.svg){.shadow-img width="100%" fig-align="center"}
+![](./img/mthr.png){.shadow-img width="100%" fig-align="center"}
 :::::
 
 ::::: {.column width="70%"}
