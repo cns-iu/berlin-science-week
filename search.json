@@ -76,7 +76,31 @@
     "href": "slides/MYO5B.html#myo5b",
     "title": "MYO5B",
     "section": "MYO5B",
-    "text": "MYO5B\n\nMYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8\nDysfunction of MYO5B leads to lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli.\n\n\n\nImage: Bowman DM, et al. (2022) Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. Cell Mol Gastroenterol Hepatol 14:553-565",
+    "text": "MYO5B\n\n\n\nProtein family MYO5B is an actin filament-based motor protein that binds select GTPase RAB proteins, including RAB8\n\n\nFunction\nDysfunction of MYO5B leads to lack of microvilli on the surface of enterocytes and occurrence of intracellular vacuolar structures containing microvilli.\n\n\n\n\n\n\n\n\n\nImage: Bowman DM, et al. (2022) Altered MYO5B Function Underlies Microvillus Inclusion Disease: Opportunities for Intervention at a Cellular Level. Cell Mol Gastroenterol Hepatol 14:553-565",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "MYO5B"
+    ]
+  },
+  {
+    "objectID": "slides/MYO5B.html#hpo",
+    "href": "slides/MYO5B.html#hpo",
+    "title": "MYO5B",
+    "section": "HPO",
+    "text": "HPO\n\nDisease annotated with HPO terms Diarrhea 2, with microvillus atrophy, with or without cholestasis",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "MYO5B"
+    ]
+  },
+  {
+    "objectID": "slides/MYO5B.html#small-intestine",
+    "href": "slides/MYO5B.html#small-intestine",
+    "title": "MYO5B",
+    "section": "Small intestine",
+    "text": "Small intestine\n\n\n\n\n\nHuman Reference Atlas Small Intestine\n\n\n\n\n\n\n\n\nNo or little specific myosin Vb signal is detected in the enterocytes of patients with DIAR2\n\n\n\n\nVillous atrophy (HP:0011473)",
     "crumbs": [
       "Home",
       "Topics",
