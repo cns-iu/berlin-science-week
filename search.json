@@ -108,6 +108,18 @@
     ]
   },
   {
+    "objectID": "slides/MYO5B.html#nm_001080467.3myo5bc.3841_3842delinsaa-p.ala1281lys",
+    "href": "slides/MYO5B.html#nm_001080467.3myo5bc.3841_3842delinsaa-p.ala1281lys",
+    "title": "MYO5B",
+    "section": "NM_001080467.3(MYO5B):c.3841_3842delinsAA (p.Ala1281Lys)",
+    "text": "NM_001080467.3(MYO5B):c.3841_3842delinsAA (p.Ala1281Lys)\n\n\n\n\n\n\n\n\n\nPredicted effect Open the MutationTaster result",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "MYO5B"
+    ]
+  },
+  {
     "objectID": "slides/FOXP3.html#foxp3",
     "href": "slides/FOXP3.html#foxp3",
     "title": "FOXP3",
@@ -203,7 +215,43 @@
     "href": "slides/INS.html#ins",
     "title": "INS",
     "section": "INS",
-    "text": "INS\n\n\nINS codes for Proinsulin, which is converted to insulin by the enzymatic removal of a segment that connects the amino end of the A chain to the carboxyl end of the B chain.\nMutations in INS lead to Diabetes mellitus, permanent neonatal 4 and related genetic diseases\n\n\nImage: Dhayalan B, et al. (2021) Structural Lessons From the Mutant Proinsulin Syndrome. Front Endocrinol (Lausanne) 12:754693",
+    "text": "INS\n\n\n\nProtein INS codes for Proinsulin, which is converted to insulin by the enzymatic removal of a segment that connects the amino end of the A chain to the carboxyl end of the B chain.\n\n\nFunction\nMutations in INS lead to Diabetes mellitus, permanent neonatal 4 and related genetic diseases\n\n\n\n\n\n\n\n\n\nImage: Dhayalan B, et al. (2021) Structural Lessons From the Mutant Proinsulin Syndrome. Front Endocrinol (Lausanne) 12:754693",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "INS"
+    ]
+  },
+  {
+    "objectID": "slides/INS.html#hpo",
+    "href": "slides/INS.html#hpo",
+    "title": "INS",
+    "section": "HPO",
+    "text": "HPO\n\nDisease annotated with HPO terms Diabetes mellitus, permanent neonatal 4",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "INS"
+    ]
+  },
+  {
+    "objectID": "slides/INS.html#pancreas",
+    "href": "slides/INS.html#pancreas",
+    "title": "INS",
+    "section": "Pancreas",
+    "text": "Pancreas\n\n\n\n\n\nHuman Reference Atlas Pancreas\n\n\n\n\n\n\n\n\nMisfolding of mutant Proinsulin leads to lack of mature insulin in circulation\n\n\n\n\nType I diabetes mellitus (HP:0100651)\n\n\n\nimage: Rubio-Cabezas O, et al. (2009) Clinical heterogeneity in patients with FOXP3 mutations presenting with permanent neonatal diabetes. Diabetes Care 32:111-6",
+    "crumbs": [
+      "Home",
+      "Topics",
+      "INS"
+    ]
+  },
+  {
+    "objectID": "slides/INS.html#nm_000207.3insc.292at-p.ser98cys",
+    "href": "slides/INS.html#nm_000207.3insc.292at-p.ser98cys",
+    "title": "INS",
+    "section": "NM_000207.3(INS):c.292A>T (p.Ser98Cys)",
+    "text": "NM_000207.3(INS):c.292A&gt;T (p.Ser98Cys)\n\n\n\n\n\n\n\n\n\nPredicted effect Open the MutationTaster result",
     "crumbs": [
       "Home",
       "Topics",
