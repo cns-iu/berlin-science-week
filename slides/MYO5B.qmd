@@ -89,3 +89,25 @@ Human Reference Atlas Small Intestine
 ::: {.step-card .goal}
 * [Villous atrophy (HP:0011473)](https://hpo.jax.org/browse/term/HP:0011473)
 :::
+
+
+
+## NM_001080467.3(MYO5B):c.3841_3842delinsAA (p.Ala1281Lys)
+
+
+:::::: {.columns}
+
+::::: {.column width="30%"}
+![](./img/MutationTaster.svg){.shadow-img width="100%" fig-align="center"}
+:::::
+
+::::: {.column width="70%"}
+
+::: {.step-card .goal}
+**Predicted effect**<br>
+[Open the MutationTaster result](https://teide.charite.de/MT2021/MutationTaster102.cgi?gene=MYO5B&start_insdel=3840&bases_inserted=TT&end_insdel=3843&sequence_type=CDS&transcript_stable_id_text=ENST00000285039)
+:::
+
+:::::
+
+::::::
