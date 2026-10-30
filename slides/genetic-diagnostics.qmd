@@ -100,7 +100,7 @@ Source of the clinical data: Baud O, et al. (2001) [Treatment of the immune dysr
 :::::: {.columns}
 
 ::::: {.column width="50%"}
-![](./img/ipex-ped.jpg){.shadow-img fig-align="center"}
+![](./img/IPEX_pedigree.png){.shadow-img fig-align="center"}
 :::::
 
 ::::: {.column width="50%"}
@@ -142,7 +142,7 @@ No diagnosis was made at the time
 ## Differential diagnosis: SAMS
 
 ::: {.step-card .goal}
-**[Differential diagnosis (SAMS)](https://www.genecascade.org/sams-cgi/phenotype.cgi?phenotype=*HP5978%7C*HP40216%7C*HP1873%7C*HP4844%7C)**<br>
+**[Differential diagnosis (SAMS)](https://www.genecascade.org/sams-cgi/phenotype.cgi?phenotype=*HP1873%7C*HP8064%7C*HP100651%7C*HP964%7C*HP2041%7C&age_of_onset=Neonatal%7C&moi=X-linked%20recessive%7C)**<br>
 Ranked candidate diagnoses from the patient's HPO terms
 :::
 
